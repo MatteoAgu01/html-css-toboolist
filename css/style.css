@@ -86,6 +86,10 @@ span{
      border-radius: 5px;
 }
 
+.add-sec:hover, .add-task:hover{
+     background-color: #45abea;
+}
+
 /* //section setting bottoni */
 
 /* setting titoli in UL */
@@ -95,12 +99,12 @@ h3{
 /* //setting titoli in UL */
 
 /* setting unordered list */
-h3 ul{
+li{
      list-style-type: none;
-     display: none;
+      display: none;
 }
 
-h3 ul :hover{
+.Upcoming:hover li, .Today:hover li, .New-Task:hover li{
      display: block;
 }
 
