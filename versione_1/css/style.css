@@ -1,11 +1,11 @@
-{
+*{
      margin: 0;
      padding: 0;
      box-sizing: border-box;
 }
 
 body{
-     background-color: #f6f8f9;
+     background-color: #dcdedf;
 }
 
 
@@ -19,7 +19,7 @@ main{
      width: 70%;
      background-color: white;
      padding: 1%;
-     border:1px solid #c9ced3;
+     border:1px solid #c3c7cc;
 }
 
 span{
@@ -71,10 +71,6 @@ span{
      border:1px solid #c9ced3 ;
      border-radius: 5px;
 }
-
-
-
-
 /* //section setting bottoni */
 
 /* setting titoli in UL */
