@@ -74,7 +74,7 @@ span{
      border-radius: 5px;
 }
 
-.add-sec:hover, .add-task:hover{
+.add-sec:active, .add-task:active{
      background-color: #45abea;
 }
 
